@@ -1,7 +1,7 @@
 # THMnotes
 # Linux Fundamentals – TryHackMe Walkthrough
 
-🗓️ **Date Completed:**  12/2/25 
+🗓️ **Date Completed:**  12/4/25 
 🏷️ **Room Link:** [TryHackMe - Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)
 
 ---
