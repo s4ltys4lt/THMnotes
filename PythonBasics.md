@@ -1,6 +1,6 @@
 # Python Basics – TryHackMe Walkthrough
 
-🗓️ **Date Completed:** [14/5/25]  
+🗓️ **Date Completed:** [14/4/25]  
 🏷️ **Room Link:** [TryHackMe - Python Basics](https://tryhackme.com/room/pythonbasics)
 
 ---
