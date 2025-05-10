@@ -1,10 +1,10 @@
-# 🛡️ TryHackMe: DFIR - An Introduction
+#  TryHackMe: DFIR - An Introduction
 
 This repository contains my notes and learning summaries from the [TryHackMe: DFIR - An Introduction](https://tryhackme.com/room/dfirintro) room. This course introduces the basics of **Digital Forensics and Incident Response (DFIR)** — a critical component of blue teaming in cybersecurity.
 
 ---
 
-## 📚 Overview
+##  Overview
 
 - **Platform**: TryHackMe
 - **Room**: DFIR - An Introduction
@@ -12,7 +12,7 @@ This repository contains my notes and learning summaries from the [TryHackMe: DF
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 ### 🔹 What is DFIR?
 DFIR stands for **Digital Forensics and Incident Response**. It's the practice of identifying, investigating, and mitigating cybersecurity incidents.
@@ -44,7 +44,7 @@ DFIR stands for **Digital Forensics and Incident Response**. It's the practice o
 
 ---
 
-## 🛠️ Tools Introduced
+##  Tools Introduced
 
 | Tool         | Use Case                                |
 |--------------|------------------------------------------|
@@ -56,7 +56,7 @@ DFIR stands for **Digital Forensics and Incident Response**. It's the practice o
 
 ---
 
-## 📝 Key Takeaways
+##  Key Takeaways
 
 - The DFIR process is as much about **procedure** as it is about tools.
 - Evidence must be handled carefully to remain legally admissible.
@@ -64,6 +64,6 @@ DFIR stands for **Digital Forensics and Incident Response**. It's the practice o
 
 ---
 
-## 🏷️ Tags
+##  Tags
 `#TryHackMe` `#DFIR` `#IncidentResponse` `#DigitalForensics` `#CyberSecurity` `#BlueTeam`
 
