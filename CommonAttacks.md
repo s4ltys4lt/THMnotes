@@ -1,17 +1,10 @@
-# Common Attacks – TryHackMe Walkthrough
-
-🗓️ **Date Completed:** [10/4/25]  
-🏷️ **Room Link:** [TryHackMe - Common Attacks](https://tryhackme.com/room/commonattacks)
-
----
-
-## 📘 Room Summary
+## Room Summary
 
 The **Common Attacks** room provides an overview of some of the most common and dangerous attack techniques used in cybersecurity. The room walks through multiple attack methods such as **SQL Injection (SQLi)**, **Cross-Site Scripting (XSS)**, **Command Injection**, **Buffer Overflow**, and **Denial of Service (DoS)**. It provides hands-on practice with each attack type to give users a better understanding of how they work and how to defend against them.
 
 ---
 
-## 🛠️ Tools / Attacks Covered
+##  Tools / Attacks Covered
 
 - **SQL Injection (SQLi)**
 - **Cross-Site Scripting (XSS)**
@@ -21,7 +14,7 @@ The **Common Attacks** room provides an overview of some of the most common and 
 
 ---
 
-## 🔍 Key Concepts Learned
+##  Key Concepts Learned
 
 #### 🔹 SQL Injection (SQLi)
 - Learned how attackers can inject malicious SQL queries into input fields to manipulate databases.
