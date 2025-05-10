@@ -1,17 +1,10 @@
-# Python Basics – TryHackMe Walkthrough
-
-🗓️ **Date Completed:** [14/4/25]  
-🏷️ **Room Link:** [TryHackMe - Python Basics](https://tryhackme.com/room/pythonbasics)
-
----
-
-## 📘 Room Summary
+##  Room Summary
 
 The Python Basics room provides an introduction to the Python programming language with a focus on cybersecurity use cases. It covers variables, input/output, data types, conditionals, loops, functions, file I/O, and basic libraries like `os` and `socket`. This room helps build automation skills useful for scripting tasks such as port scanning, data handling, and basic malware analysis.
 
 ---
 
-## 🛠️ Tools / Libraries Used
+##  Tools / Libraries Used
 
 - `print()`, `input()`
 - `if`, `elif`, `else`
@@ -22,7 +15,7 @@ The Python Basics room provides an introduction to the Python programming langua
 
 ---
 
-## 🔍 Key Concepts Learned
+##  Key Concepts Learned
 
 #### 🔹 Variables and Data Types
 - Used `int`, `str`, `bool`, and `list` data types.
