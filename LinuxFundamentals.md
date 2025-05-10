@@ -1,18 +1,10 @@
-# THMnotes
-# Linux Fundamentals – TryHackMe Walkthrough
-
-🗓️ **Date Completed:**  12/4/25 
-🏷️ **Room Link:** [TryHackMe - Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)
-
----
-
-## 📘 Room Summary
+##  Room Summary
 
 The Linux Fundamentals room is a beginner-friendly introduction to the Linux operating system. It walks through key topics such as file system structure, user and group management, permissions, navigation, basic commands, package management, and file editing tools. This room helps build a strong foundation for using Linux in cybersecurity and server administration contexts.
 
 ---
 
-## 🛠️ Tools / Commands Covered
+##  Tools / Commands Covered
 
 - `ls`, `cd`, `pwd`, `touch`, `mkdir`, `rm`, `cp`, `mv`
 - `chmod`, `chown`, `cat`, `less`, `more`, `nano`, `vi`
@@ -21,7 +13,7 @@ The Linux Fundamentals room is a beginner-friendly introduction to the Linux ope
 
 ---
 
-## 🔍 Key Concepts Learned
+##  Key Concepts Learned
 🔹 File System Navigation
 Learned how to use pwd, ls, cd to move around the Linux file system.
 
