@@ -16,7 +16,7 @@ The **Common Attacks** room provides an overview of some of the most common and 
 
 ##  Key Concepts Learned
 
-#### 🔹 SQL Injection (SQLi)
+#### - SQL Injection (SQLi)
 - Learned how attackers can inject malicious SQL queries into input fields to manipulate databases.
 - Techniques like `UNION SELECT` were used to extract sensitive data.
 
