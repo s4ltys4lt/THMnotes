@@ -14,10 +14,10 @@ This repository contains my notes and learning summaries from the [TryHackMe: DF
 
 ##  Topics Covered
 
-### 🔹 What is DFIR?
+###  What is DFIR?
 DFIR stands for **Digital Forensics and Incident Response**. It's the practice of identifying, investigating, and mitigating cybersecurity incidents.
 
-### 🔹 The DFIR Process
+###  The DFIR Process
 1. **Preparation** – Establish policies, procedures, and a response team.
 2. **Identification** – Detect and analyze indicators of compromise.
 3. **Containment** – Limit the scope and impact of the attack.
@@ -25,7 +25,7 @@ DFIR stands for **Digital Forensics and Incident Response**. It's the practice o
 5. **Recovery** – Restore systems and monitor for further activity.
 6. **Lessons Learned** – Review the incident and improve procedures.
 
-### 🔹 Order of Volatility
+###  Order of Volatility
 | Order | Data Type                       | Description                          |
 |-------|----------------------------------|--------------------------------------|
 | 1     | CPU registers, cache            | Most volatile, lost instantly        |
@@ -34,11 +34,11 @@ DFIR stands for **Digital Forensics and Incident Response**. It's the practice o
 | 4     | Disk                             | Persistent storage                   |
 | 5     | Backups, archival media         | Least volatile                       |
 
-### 🔹 Evidence Collection & Imaging
+###  Evidence Collection & Imaging
 - Use tools like `FTK Imager`, `dd`, or `Autopsy` to create forensically sound disk images.
 - Always maintain **chain of custody**.
 
-### 🔹 Hashing
+###  Hashing
 - Used to verify integrity of evidence.
 - Common hashes: `MD5`, `SHA-1`, `SHA-256`.
 
